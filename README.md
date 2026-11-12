@@ -46,4 +46,4 @@ Lauréat de la 1re place au Hackathon Next Djerba 2026.
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-boussoukaya))
